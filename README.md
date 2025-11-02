@@ -1,8 +1,8 @@
-# \# Resume Classification using Scikit-learn \& TF-IDF \& NLP Fundamentals 
+# &nbsp;Resume Classification using Scikit-learn \& TF-IDF \& NLP Fundamentals 
 
 # 
 
-# \##  Project Overview
+# &nbsp;Project Overview
 
 # 
 
@@ -10,7 +10,7 @@
 
 # 
 
-# The final model, a \*\*Support Vector Classifier (SVC)\*\*, achieved an accuracy of \*\*99.48%\*\* on the test set.
+# The final model, a Support Vector Classifier (SVC), achieved an accuracy of \*\*99.48%\*\* on the test set.
 
 # 
 
@@ -70,7 +70,7 @@
 
 # 
 
-# \## 🛠️ Technologies \& Libraries Used
+# \## Technologies \& Libraries Used
 
 # 
 
